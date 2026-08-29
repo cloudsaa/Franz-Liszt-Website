@@ -1,12 +1,12 @@
 # Franz Liszt — Tribute Website
 
-A responsive tribute website dedicated to **Franz Liszt**, designed to explore his life, music, and legacy through a classical-inspired interface.
+A beginner frontend project dedicated to **Franz Liszt**, created as an experiment with **Tailwind CSS**.
 
 ## About
 
-The website presents an introduction to Liszt, a short overview of his life, and a selection of his most popular piano works. Sheet music covers are linked directly to their respective PDFs.
+This website presents a short introduction to Franz Liszt, his life and achievements, and a selection of some of his most well-known piano works.
 
-The design combines a dark teal palette, warm historical imagery, and typography inspired by the character of Liszt's era.
+Each piece includes its sheet music and additional information, with a design inspired by Liszt's era and classical music.
 
 ## Built With
 
@@ -17,14 +17,42 @@ The design combines a dark teal palette, warm historical imagery, and typography
 ## Features
 
 * Responsive layout
-* Smooth navigation between sections
-* Historical imagery with CSS filters
-* Interactive sheet music cards
-* Hover animations
-* Direct links to sheet music PDFs
-* Custom favicon
+* Navigation between sections
+* Franz Liszt biography
+* Piano works showcase
+* Interactive hover effects
+* Sheet music links
+* Embedded YouTube performances
+* Custom images and favicon
+* Social media links
 
-## Purpose
+## What I Learned
 
-This project was built as a frontend practice project to improve my understanding of **Tailwind CSS, responsive layouts, visual design, and interactive UI elements**.
+This project was mainly created to practice and explore **Tailwind CSS** for the first time.
+
+Through this project, I practiced:
+
+* Using Tailwind utility classes
+* Creating responsive layouts
+* Working with flexbox
+* Styling sections and cards
+* Adding hover and transition effects
+* Using spacing, typography, colors, and borders
+* Organizing a small frontend project with Vite
+* Embedding external content such as YouTube videos
+
+## Project Goal
+
+The goal was not to build a complex website, but to get more comfortable with frontend development and experiment with Tailwind CSS while creating something related to one of my interests: classical music.
+
+## Preview
+
+The website can be viewed through GitHub Pages once the repository is configured for deployment. GitHub Pages supports hosting static HTML, CSS, and JavaScript projects directly from a repository.
+
+## Status
+
+Completed as a beginner frontend practice project.
+
+More improvements may be made as I continue learning Tailwind CSS and frontend development.
+
 
